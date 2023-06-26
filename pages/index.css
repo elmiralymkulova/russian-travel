@@ -1,0 +1,6 @@
+@import url('../vendor/normalize.css');
+
+@import url('../blocks/page/page.css');
+
+/* стили для header */
+@import url('../blocks/header/header.css');
