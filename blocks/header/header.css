@@ -1,0 +1,6 @@
+.header {
+    margin: 0 auto;
+    max-width: 92.5%; /*отступы по бокам по 48px, т.е. header в ширину не больше 1184px, далее расчитала процент от родителя*/
+    display: flex;
+    justify-content: space-between;
+}

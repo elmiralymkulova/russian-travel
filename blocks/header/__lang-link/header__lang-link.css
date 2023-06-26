@@ -1,0 +1,11 @@
+.header__lang-link {
+    color: #FFF;
+    font-size: 24px;
+    font-family: Inter; /*подключить, проверить*/
+    line-height: 1.2; /*должно быть 28px по итогу*/
+    text-decoration: none;
+}
+
+.header__lang-link:hover {
+    text-decoration-line: underline;
+}
