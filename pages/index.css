@@ -7,3 +7,24 @@
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__logo/header__logo.css');
 @import url('../blocks/header/__lang-link/header__lang-link.css');
+
+
+@import url('../blocks/content/content.css'); /*удалить, если не будет стилей*/
+
+/* секция lead*/
+@import url('../blocks/lead/lead.css');
+
+/* секция intro*/
+@import url('../blocks/intro/intro.css');
+
+/* секция photo-grid*/
+@import url('../blocks/photo-grid/photo-grid.css');
+
+/* секция places*/
+@import url('../blocks/places/places.css');
+
+/* секция cover*/
+@import url('../blocks/cover/cover.css');
+
+/* стили для footer*/
+@import url('../blocks/footer/footer.css');
