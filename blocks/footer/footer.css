@@ -5,22 +5,3 @@
     align-items: center;
     padding: 92px 48px 24px 48px;
 }
-
-.footer__link {
-    color: #FFFFFF;
-    text-decoration: none;
-    padding-right: 18px;
-    font-size: 16px;
-    line-height: 1.1;
-}
-
-.footer__link:last-child {
-    padding-right: 0;
-}
-
-.footer__copyright {
-    color: #FFFFFF;
-    margin: 0;
-    font-size: 14px;
-    line-height: 1.1;
-}
