@@ -3,4 +3,6 @@
     max-width: 92.5%; /*отступы по бокам по 48px, т.е. header в ширину не больше 1184px, далее расчитала процент от родителя*/
     display: flex;
     justify-content: space-between;
+    align-items: end;
+    padding: 28px 48px 56px 48px;
 }
