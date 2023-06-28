@@ -32,6 +32,7 @@
 
 /* секция places*/
 @import url('../blocks/places/places.css');
+@import url('../blocks/place/place.css');
 
 /* секция cover*/
 @import url('../blocks/cover/cover.css');

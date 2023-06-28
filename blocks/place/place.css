@@ -1,0 +1,20 @@
+.place {
+    color: #FFF;
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+    display: grid;
+    grid-template-columns: 460px 460px;
+}
+
+.place__title {
+    margin: 0;
+}
+
+.place__image {}
+
+.place__website {}
+
+.place__url-heading {}
+
+.place__link {}
+
+.place__paragraph {}
