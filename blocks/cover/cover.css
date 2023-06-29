@@ -1,7 +1,10 @@
 .cover {
+    min-height: 740px;
+    position: relative;
     background-image: url('../../images/cover-trains.jpg');
-    background-size: contain;
+    background-size: 1184px 740px;
     background-repeat: no-repeat;
+    background-position: center;
     
     color: #FFF;
     font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
