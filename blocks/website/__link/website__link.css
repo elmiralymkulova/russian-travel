@@ -4,3 +4,7 @@
     font-weight: 400;
     line-height: 1.2;
 }
+
+.website__link:hover {
+    color: #878787;
+}
