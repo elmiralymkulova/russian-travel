@@ -2,4 +2,11 @@
     margin: 0;
     max-width: 984px;
     padding: 8px 148px 0 148px;
+
+    color: #FFFFFF;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 1.4;
+    letter-spacing: 1.5px;
+    text-align: start;
 }
