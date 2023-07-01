@@ -13,3 +13,24 @@
     flex-direction: column;
     justify-content: center;
 }
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .cover__item {
+        min-height: 640px;
+        background-size: 1024px 640px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .cover__item {
+        min-height: 480px;
+        background-size: 768px 480px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .cover__item {
+        min-height: 200px;
+        background-size: 320px 200px;
+    }
+}
