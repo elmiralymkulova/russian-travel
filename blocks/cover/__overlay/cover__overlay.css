@@ -1,0 +1,14 @@
+.cover__overlay {
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 100%;
+    max-width: 1184px;
+    background-color: black;
+    opacity: 30%;
+}
+
+.cover__overlay:hover {
+    opacity: 60%;
+}
