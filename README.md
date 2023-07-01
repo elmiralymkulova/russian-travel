@@ -10,6 +10,6 @@
 * Озеро Байкал
 
 
-**GitHub**
+**GitHub Pages**
 
-* [Ссылка на проект в GitHub](https://github.com/elmiralymkulova/russian-travel)
+* [Ссылка на проект в GitHub Pages](https://elmiralymkulova.github.io/russian-travel/)
