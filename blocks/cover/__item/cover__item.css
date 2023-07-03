@@ -14,6 +14,22 @@
     justify-content: center;
 }
 
+.cover__item::before {
+    content: '';
+    height: 100%;
+    background-color: black;
+    opacity: 30%;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    max-width: 1184px;
+}
+
+.cover__item:hover {
+    opacity: 60%;
+}
+
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .cover__item {
         min-height: 640px;
