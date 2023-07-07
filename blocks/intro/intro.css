@@ -5,7 +5,8 @@
     padding-right: 148px;
     padding-bottom: 92px;
     padding-left:  148px;
-    max-width: 690px;
+    max-width: 1184px;
+    margin: 0 auto;
 
     display: flex;
     flex-direction: column;
