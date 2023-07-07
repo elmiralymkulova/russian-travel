@@ -36,6 +36,9 @@
         min-height: 640px;
         background-size: 1024px 640px;
     }
+    .cover__item::before {
+        max-width: 1024px;
+    }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
@@ -43,11 +46,17 @@
         min-height: 480px;
         background-size: 768px 480px;
     }
+    .cover__item::before {
+        max-width: 768px;
+    }
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
     .cover__item {
         min-height: 200px;
         background-size: 320px 200px;
+    }
+    .cover__item::before {
+        max-width: 320px;
     }
 }
