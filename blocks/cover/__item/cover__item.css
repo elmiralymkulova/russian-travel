@@ -18,7 +18,7 @@
 .cover__item::before {
     content: '';
     height: 100%;
-    background-color: black;
+    background-color: #2A2C2F;
     opacity: 30%;
     margin: auto;
     position: absolute;
@@ -28,7 +28,7 @@
 }
 
 .cover__item:hover::before {
-    opacity: 60%;
+    opacity: 80%;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {

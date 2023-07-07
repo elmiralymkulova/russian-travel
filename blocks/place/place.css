@@ -24,6 +24,7 @@
     .place {
         grid-template-columns: 340px 1fr;
         gap: 48px 28px;
+        padding-bottom: 73px;
     }
 }
 
@@ -31,5 +32,6 @@
     .place {
         grid-template-columns: 320px;
         gap: 32px;
+        padding-bottom: 50px;
     }
 }
